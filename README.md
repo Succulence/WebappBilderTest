@@ -1,5 +1,5 @@
 # WebappBilderTest
 
-Angular 8 crash course:
+Angular 8 crash course: https://www.youtube.com/watch?v=_TLhUCjY9iA
 
-Accordion menu: https://www.w3schools.com/howto/howto_js_accordion.asp
+//Accordion menu: 
