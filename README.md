@@ -7,3 +7,5 @@ Videoer til fagansvarlig
 Angular 8 crash course: https://www.youtube.com/watch?v=_TLhUCjY9iA
 
 Accordion menu: https://material.angular.io/components/expansion/overview
+
+Search bar: https://www.w3schools.com/howto/howto_css_search_button.asp
