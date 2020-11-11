@@ -1,5 +1,5 @@
 # WebappBilderTest
-Har valgt å ha kategorier som string og dermed ikke hente de fra databasen. Dette er på grunn av design, og siden jeg viser hvordan det kan gjøres med at spørsmål allerede blir hentet.
+Har valgt å ha kategorier som string og ikke en egen klasse. Dette er på grunn av designet, og siden jeg viser hvordan det kan gjøres med at spørsmål allerede blir hentet.
 
 Har brukt kode fra følgende sider:
 
